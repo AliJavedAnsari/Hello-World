@@ -1,3 +1,3 @@
 ## Hello World
 
-This is a simple Hello World program :)
+The infamous *Hello World* program :stuck_out_tongue_winking_eye:
