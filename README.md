@@ -1,3 +1,3 @@
 ## Hello World
 
-The infamous *Hello World* program :stuck_out_tongue_winking_eye:
+The infamous *Hello World* program in Java :stuck_out_tongue_winking_eye:
